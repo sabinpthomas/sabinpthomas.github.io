@@ -282,8 +282,9 @@ img {
 }
 
 .iframe_border {
-  border:1px solid blue;
-  border-radius: .5rem;
+  border:0.5px solid blue;
+  border-radius: 0rem;
+  box-shadow: 0.5px 0.5px 30px blue;
 }
 
 .about__img img {
