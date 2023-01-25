@@ -284,7 +284,7 @@ img {
 .iframe_border {
   border:0.5px solid blue;
   border-radius: 0rem;
-  box-shadow: 0.5px 0.5px 30px blue;
+  box-shadow: 0.5px 0.5px 0.5px blue;
 }
 
 .about__img img {
