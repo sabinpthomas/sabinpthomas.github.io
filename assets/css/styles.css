@@ -281,10 +281,16 @@ img {
   justify-self: center;
 }
 
+.iframe_border {
+  border:1px solid blue;
+  border-radius: .5rem;
+}
+
 .about__img img {
   width: 100%;
   border-radius: .5rem;
 }
+
 .about__img img:hover {
   transform: scale(1.1);
 }
